@@ -2,9 +2,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Sample Posts"
+  - title: "Posts"
     url: /year-archive/
-  - title: "External Link"
-    url: https://google.com
-  - title: "Example"
-    url: /lorem-ipsum/
+  - title: "Merch"
+    url: "https://jakepaul.com/"
